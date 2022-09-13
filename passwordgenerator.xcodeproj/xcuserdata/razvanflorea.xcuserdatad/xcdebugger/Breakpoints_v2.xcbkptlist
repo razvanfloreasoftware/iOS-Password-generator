@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "49F1BE8D-D327-4417-979A-133FB839EE14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "passwordgenerator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513 - 2604d1032f497f93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passwordgenerator.ViewController.simplePassword.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "passwordgenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/razvanflorea/Desktop/BMI/BMI%20calculator/udemyapps/passwordgenerator/passwordgenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513 - deca8967b4772787"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passwordgenerator.ViewController.simplePassword.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "passwordgenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/razvanflorea/Desktop/BMI/BMI%20calculator/udemyapps/passwordgenerator/passwordgenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513 - 7280dd50613ce440"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passwordgenerator.ViewController.simplePassword.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "passwordgenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/razvanflorea/Desktop/BMI/BMI%20calculator/udemyapps/passwordgenerator/passwordgenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513 - b56df43682427500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passwordgenerator.ViewController.simplePassword.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "passwordgenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/razvanflorea/Desktop/BMI/BMI%20calculator/udemyapps/passwordgenerator/passwordgenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513 - 81e7cb16f3b8e76f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passwordgenerator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; passwordgenerator.ViewController"
+                  moduleName = "passwordgenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/razvanflorea/Desktop/BMI/BMI%20calculator/udemyapps/passwordgenerator/passwordgenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "2188">
+               </Location>
+               <Location
+                  uuid = "EDA2B285-673D-45A9-9CA9-8A3589D43513 - 6686cffe8adf9cb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "passwordgenerator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;passwordgenerator.ViewController&gt;"
+                  moduleName = "passwordgenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/razvanflorea/Desktop/BMI/BMI%20calculator/udemyapps/passwordgenerator/passwordgenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "2164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
